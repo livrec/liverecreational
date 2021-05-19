@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>j7tran &#8211; LIVE RECREATIONAL</title>
+	<atom:link href="/author/j7tran/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Recreational Rentals</description>
+	<lastBuildDate>Wed, 19 May 2021 00:35:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/04/cropped-icons8-kayaking-64-150x150.png</url>
+	<title>j7tran &#8211; LIVE RECREATIONAL</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title></title>
+		<link>/2021/05/18/hello-world/</link>
+					<comments>/2021/05/18/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[j7tran]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 20:39:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/05/18/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ACCEPTING BOOKINGS FOR 2021</title>
+		<link>/2021/04/12/test/</link>
+					<comments>/2021/04/12/test/#respond</comments>
+		
+		<dc:creator><![CDATA[j7tran]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 03:30:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://liverecreational.wordpress.com/?p=50</guid>
+
+					<description><![CDATA[Spring is here and summer is just around the corner. Now accepting bookings for 2021 season. Book early for best selection. COVD-19 &#8211; STAYING SAFE Increased gear cleaning protocols in place. All gear and equipment will be completely sanitized and wiped down before and after each use.]]></description>
+										<content:encoded><![CDATA[
+<p>Spring is here and summer is just around the corner. Now accepting bookings for 2021 season. Book early for best selection. </p>
+
+
+
+<p>COVD-19 &#8211; STAYING SAFE</p>
+
+
+
+<p>Increased gear cleaning protocols in place. All gear and equipment will be completely sanitized and wiped down before and after each use.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/wp-content/uploads/2021/04/clean-icon-1.png"><img loading="lazy" width="350" height="350" src="/wp-content/uploads/2021/04/clean-icon-1.png?w=350" alt="" class="wp-image-256" srcset="/wp-content/uploads/2021/04/clean-icon-1.png 350w, /wp-content/uploads/2021/04/clean-icon-1-300x300.png 300w, /wp-content/uploads/2021/04/clean-icon-1-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px" /></a></figure></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/12/test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
